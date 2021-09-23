@@ -27,6 +27,13 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+2 	<repository>
+3 		<id>github</id>
+4 		<name>GitHub Packages</name>
+5 		<url>https://github.com/Dinuka-Thathsara/cse-workshop.git</url>
+6 	</repository>
+7 </distributionManagement
 
   <build>
     <plugins>
